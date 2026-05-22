@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# LibreOffice temporary files
+~$*
+*.odt
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+
+# Raw generated data
+data/events_raw.csv

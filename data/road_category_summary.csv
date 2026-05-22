@@ -1,0 +1,25 @@
+road,category,events_count
+A01,service disruption,11
+A14,roadworks,5
+A01,closure,3
+A11,service disruption,3
+A01,other,3
+A23,closure,2
+A22,closure,2
+A12,service disruption,2
+A01,roadworks,2
+A01,queue,2
+A08,closure,1
+A10,queue,1
+A07,other,1
+A12,roadworks,1
+A04,service disruption,1
+A12,weather,1
+A13,service disruption,1
+A14,closure,1
+A04,queue,1
+A14,weather,1
+A22,queue,1
+A26,closure,1
+A27,weather,1
+TR1,queue,1
